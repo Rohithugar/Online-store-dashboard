@@ -1,7 +1,7 @@
 # Online-store-dashboard
 
-Objective
-Utilize Power BI to create a comprehensive dashboard for our simple online store customer data, empowering stakeholders with real-time insights to optimize marketing strategies, improve customer experiences, and drive business growth.
+Objective :
+Using Power BI to create a comprehensive dashboard for our simple online store customer data, empowering stakeholders with real-time insights to optimize marketing strategies, improve customer experiences, and drive business growth.
 
 Steps
 1. Extracting raw data
